@@ -1,0 +1,465 @@
+.x{
+    background-image:url(data-technology-blue-background-with-hacker-remixed-media_53876-108534.jpg.webp);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    padding-left: 550px;
+    padding-top: 150px;
+    color: white;
+    font-size: 20px;
+    
+}
+.y{border: 2px solid black;
+    width: 110px;
+    height: 30px;
+    background-color: red;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding: 5px 14px;
+
+
+    
+}
+#a{background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    padding-top: 80px;
+    display: inline-block;
+    position: relative;
+    bottom: 160px;
+    margin-left: 40px;
+    border-radius: 8px;
+    
+
+
+}
+#b{background-color: white;
+    border: 2px solid black;
+   text-align: center;
+    height: 260px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    bottom: 140px;
+    margin-left: 120px;
+    padding-top: 80px;
+    border-radius: 8px;
+    
+
+}
+#c{background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    height: 295px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    bottom: 105px;
+    margin-left: 120px;
+    padding-top: 80px;
+    border-radius: 8px;
+    
+}
+
+.y a{
+    color: white;
+    text-decoration:none;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    white-space: pre;
+    text-decoration: none;
+}
+ ul{
+    text-align: right;
+    position: relative;
+    bottom: 1230px;
+    margin-right: 50px;   
+}
+#e{
+    text-align: center;
+    position: relative;
+    bottom: 80px;
+}
+.z{
+    position: relative;
+    bottom: 50px;
+}
+
+#h a{ text-decoration: none;
+     color:black;
+}
+#h a:hover{
+    color: red;
+}
+.a a{
+    color: red;
+    text-decoration: none;
+}
+.b a{
+    color: red;
+    text-decoration: none;
+}
+.c a{
+    color: red;
+    text-decoration: none;
+}
+#i{display: inline-block;
+    margin-left: 13%;
+    margin-top: 50px;
+}
+#l{display: inline-block;
+    position: relative;
+    top: 20px;
+    
+}
+#k{display: inline-block;
+    margin-left: 50%;
+    position: relative;
+    bottom: 350px;
+}
+#m{
+    display: inline-block;
+    margin-left: 53%;
+    position: relative;
+    bottom: 510px;
+}
+#n{border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    bottom: 690px;
+    right: 785px;
+    height: 25px;
+    width: 110px;
+    padding-left: 22px;
+    color: white;
+    background-color: red;
+    padding-top: 5px;
+    font-size: 20px;
+    border-radius: 5PX;  
+}
+#o{
+    margin-top: -350px;
+    line-height: 30px;
+    font-size: 20px;
+    margin-left: 80px;
+    padding-top: 300px;
+
+}
+#p{
+    color: red;
+}
+#q{
+    font-size: 15px;
+}
+#u{
+    margin-left: 550px;
+    margin-top: -750px;
+}
+#v{
+    margin-top: 180px;
+    margin-left: 500px;
+    white-space: pre;
+}
+#t{
+    margin-top: -30px;
+}
+#w{
+    color: red;
+    font-size: 13px;
+}
+#m1{
+    margin-left: -90px;
+    margin-top: -30px;
+}
+.mahi1{
+    
+    display: inline-block;
+    height: 450px;
+    width: 350px;
+    margin-left: 50px;
+    position: relative;
+    bottom: -40px;
+    border-radius: 8px;
+}
+.mahi2{
+    
+    display: inline-block;
+    height:435px;
+    width: 350px;
+    margin-left: 50px;
+    position: relative;
+    bottom: -20px;
+     border-radius: 8px;
+}
+.mahi3{
+
+    display: inline-block;
+    height: 435px;
+    width: 350px;
+    margin-left: 50px;
+    position: relative;
+    bottom: -20px;
+     border-radius: 8px;
+}
+.mahi5{
+    
+    display: inline-block;
+    height: 435px;
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 130px;
+    border-radius: 8px;
+}
+.mahi6{
+    
+    display: inline-block;
+    height: 435px;
+    width: 350px;
+    margin-left: 50px;
+    border-radius: 8px;
+}
+.mahi7{
+    margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+    color: red;
+}
+.mahi8{
+    position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    display: inline-block;
+}
+#mahi9{
+    position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+}
+.d{margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+    color: red;
+
+}
+.d1{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    display: inline-block;
+
+}
+.d2{ position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+
+}
+.d3{margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+    color: red;
+
+}
+.d4{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    display: inline-block;
+
+
+}
+.d5{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+
+}
+.d6{margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+    color: red;
+
+}
+.d7{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    display: inline-block;
+
+}
+.d8{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+
+}
+.d9{margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+    color: red;
+
+}
+.d10{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    display: inline-block;
+
+}
+.d11{position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+
+}
+.d12{
+    margin-left: 290px;
+    position: relative;
+    top: 205px;
+    
+}
+.d15{
+    margin-left: 35%;
+    position: relative;
+    bottom: 180px;
+    white-space: pre;
+}
+.d13{
+    margin-left: 66%;
+    position: relative;
+    top: 245px;
+}
+.d16{
+    font-size: 35px;
+    position: relative;
+    right: 35px;
+}
+.d17{
+    position: relative;
+    right: 45px;
+    bottom: 50px;
+}
+.d14{
+    margin-left: 78%;
+}
+.d18{
+    color: red;
+    margin-left: 17%;
+    position: relative;
+    top: 40px;
+}
+.d19 a{border: 2px solid black;
+    width: 110px;
+    height: 25px;
+    background-color: red;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding: 5px 14px;
+    color: white;
+    margin-left: 45%;
+    position: relative;
+    bottom: 200px;
+    text-decoration: none;
+    
+}
+.d21{
+    background-color: rgb(4, 4, 37);
+    height: 800px;
+    background-repeat: no-repeat;
+    color: white;
+    padding-left: 570px;
+    padding-top: 400px;
+}
+ .d22{font-size: 35px;
+ 
+ }
+ .d23 a{border: 2px solid black;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding: 5px 14px;
+    font-size: 20px;
+    color: white;
+    margin-left: 570px;
+    position: relative;
+    bottom: 650px;
+    text-decoration: none;
+ }
+ .d24{
+    margin-left: 350PX;
+    position: relative;
+    bottom: 600px;
+ }
+ .d25{
+    background-color: whitesmoke;
+    height: 600px;
+    margin-top: -80px;
+ }
+ .d26{
+    margin-left: 20px;
+    padding-top: 10px;
+ }
+ .d27{
+    margin-left: 55%;
+    display: inline-block;
+    position: relative;
+    bottom: 600px;
+ }
+ .d28{
+    margin-left: 30px;
+    color: red;
+ }
+ .d29 a{
+    margin-left: 330px;
+    line-height: 30px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    bottom: 250px;
+ }
+ .d30 a{
+    margin-left: 650px;
+    line-height: 30px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    bottom: 500px;
+ }
+ .d31{
+    position: relative;
+    bottom: 470px;
+    background-color: rgb(14, 2, 32);
+    height: 500px;
+    width: 1250px;
+    color: white;
+    padding-left: 50px;
+    padding-top: 90px;
+ }
+ .d32{
+    margin-left: 75%;
+    line-height: 30px;
+    position: relative;
+    bottom: 675px;
+ }
+ .d33{
+    line-height: 30px;
+ }
+ .d29 a:hover{
+       color: red;
+ }
+ .d30 a:hover{
+    color: red;
+ }
+ .d34{
+    margin-left: 52%;
+    position: relative;
+    bottom: 470px;
+ }
+ .d35{
+    margin-left: 25%;
+    position: relative;
+    bottom: 225px;
+ }
+ #ds{background-color: white;
+    background: fixed;
+
+ }
